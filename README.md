@@ -1,3 +1,5 @@
+run locally
+
 npm run start:dev
 Starts the application in development using nodemon and ts-node to do cold reloading.
 
